@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Justicia</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="EmailAddress">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

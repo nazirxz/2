@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.justicia.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_rounded_corner.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_book.png.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/book.png"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/layout_fragment_chatbot.xml.flat",
+        "source": "com.example.justicia.app-main-34:/layout/fragment_chatbot.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/layout_fragment_grafik.xml.flat",
+        "source": "com.example.justicia.app-main-34:/layout/fragment_grafik.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/layout_fragment_sign_up.xml.flat",
+        "source": "com.example.justicia.app-main-34:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.justicia.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/layout_chat_item.xml.flat",
+        "source": "com.example.justicia.app-main-34:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_liber.png.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/liber.png"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_ic_home.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.justicia.app-main-34:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/raw_cluster_results.csv.flat",
+        "source": "com.example.justicia.app-main-34:/raw/cluster_results.csv"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_ic_back.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_konsultasi.png.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/konsultasi.png"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/layout_fragment_listperaturan.xml.flat",
+        "source": "com.example.justicia.app-main-34:/layout/fragment_listperaturan.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.justicia.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_backg.png.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/backg.png"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_login.png.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/login.png"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/menu_bottom_navigation.xml.flat",
+        "source": "com.example.justicia.app-main-34:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.justicia.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_border.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/border.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_item_selector.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/item_selector.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/layout_fragment_login.xml.flat",
+        "source": "com.example.justicia.app-main-34:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_ic_baseline_send_24.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_peraturan.png.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/peraturan.png"
+    },
+    {
+        "merged": "com.example.justicia.app-merged_res-32:/drawable_ic_grafik.xml.flat",
+        "source": "com.example.justicia.app-main-34:/drawable/ic_grafik.xml"
+    }
+]

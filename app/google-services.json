@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234821943159",
+    "project_id": "justicia-a9977",
+    "storage_bucket": "justicia-a9977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234821943159:android:e4b4b1b312b38f67796b72",
+        "android_client_info": {
+          "package_name": "com.example.justicia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdxHGzEXCRngDUmJC0yThMPBszWte2n_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
